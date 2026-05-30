@@ -1,8 +1,8 @@
 {
-  "version": 39,
-  "published_at": "2026-05-30T09:26:30Z",
+  "version": 40,
+  "published_at": "2026-05-30T09:35:43Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "48980f692e5bd302212afe197325f0577342eb3590ffe01e2059383cc4387552",
-  "size": 247824,
+  "sha256": "e3428fb6cabe0d88ad246d21b48a02c0df7d2c2185b751e40ad5c3d448e4eb34",
+  "size": 247953,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco"
 }
