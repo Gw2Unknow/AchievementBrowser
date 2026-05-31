@@ -1,0 +1,110 @@
+[
+  {
+    "version": 51,
+    "date": "2026-05-31",
+    "achievements": [
+      {
+        "ach_id": 6180,
+        "name": "No-Fun Police",
+        "markers": [
+          {
+            "op": "add",
+            "name": "#3 Bori Ward",
+            "map_id": 1438,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "version": 50,
+    "date": "2026-05-31",
+    "achievements": [
+      {
+        "ach_id": 4718,
+        "name": "Skyscale Rider: Kryta",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Lion's Arch 12 Mote (Start)",
+            "map_id": 50,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Lion's Arch 8 Mote (Start)",
+            "map_id": 50,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 6180,
+        "name": "No-Fun Police",
+        "markers": [
+          {
+            "op": "add",
+            "name": "#1 Naksi Bay",
+            "map_id": 1438,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#2 Old Kaineng",
+            "map_id": 1438,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "version": 49,
+    "date": "2026-05-30",
+    "achievements": [
+      {
+        "ach_id": 4718,
+        "name": "Skyscale Rider: Kryta",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Southsun Cove 30 Mote (Start)",
+            "map_id": 873,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Bloodtide Coast 11 Mote (Start)",
+            "map_id": 73,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Bloodtide Coast 20 Mote (Start)",
+            "map_id": 73,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "version": 48,
+    "date": "2026-05-30",
+    "achievements": [
+      {
+        "ach_id": 4718,
+        "name": "Skyscale Rider: Kryta",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Southsun Cove 8 Mote (Start)",
+            "map_id": 873,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  }
+]
