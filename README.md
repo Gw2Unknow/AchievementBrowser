@@ -8,6 +8,13 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v51 — 2026-05-31
+
+**1 marker(s) · 1 achievement(s)**
+
+### No-Fun Police (id 6180)
+- add · "#3 Bori Ward" · map 1438 · guide
+
 ## v50 — 2026-05-31
 
 **4 marker(s) · 2 achievement(s)**
