@@ -1,15 +1,52 @@
 {
-  "version": 51,
-  "published_at": "2026-05-31T09:06:06Z",
+  "version": 52,
+  "published_at": "2026-05-31T15:33:07Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "d251dd7cf5d1c882f5320d08fda6859b2fd211399fbcaf27f54bf8ff8c4960dc",
-  "size": 258682,
+  "sha256": "edd3fdfee81b59a71dd080edbb6788f69299dee09d513c20189dd4581fea549e",
+  "size": 259090,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 6180,
-      "name": "No-Fun Police",
-      "count": 1
+      "ach_id": 6387,
+      "name": "Arborstone Vaulter",
+      "markers": [
+        {
+          "op": "add",
+          "name": "#22 Blessing of Arborstone",
+          "map_id": 1428,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#23 Blessing of Arborstone",
+          "map_id": 1428,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#24 Blessing of Arborstone",
+          "map_id": 1428,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#25 Blessing of Arborstone",
+          "map_id": 1428,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#26 Blessing of Arborstone",
+          "map_id": 1428,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#27 Blessing of Arborstone",
+          "map_id": 1428,
+          "kind": "guide"
+        }
+      ]
     }
   ]
 }

@@ -8,6 +8,18 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v52 — 2026-05-31
+
+**6 marker(s) · 1 achievement(s)**
+
+### Arborstone Vaulter (id 6387)
+- add · "#22 Blessing of Arborstone" · map 1428 · guide
+- add · "#23 Blessing of Arborstone" · map 1428 · guide
+- add · "#24 Blessing of Arborstone" · map 1428 · guide
+- add · "#25 Blessing of Arborstone" · map 1428 · guide
+- add · "#26 Blessing of Arborstone" · map 1428 · guide
+- add · "#27 Blessing of Arborstone" · map 1428 · guide
+
 ## v51 — 2026-05-31
 
 **1 marker(s) · 1 achievement(s)**

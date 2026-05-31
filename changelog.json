@@ -1,5 +1,53 @@
 [
   {
+    "version": 52,
+    "date": "2026-05-31",
+    "achievements": [
+      {
+        "ach_id": 6387,
+        "name": "Arborstone Vaulter",
+        "markers": [
+          {
+            "op": "add",
+            "name": "#22 Blessing of Arborstone",
+            "map_id": 1428,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#23 Blessing of Arborstone",
+            "map_id": 1428,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#24 Blessing of Arborstone",
+            "map_id": 1428,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#25 Blessing of Arborstone",
+            "map_id": 1428,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#26 Blessing of Arborstone",
+            "map_id": 1428,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#27 Blessing of Arborstone",
+            "map_id": 1428,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 51,
     "date": "2026-05-31",
     "achievements": [
