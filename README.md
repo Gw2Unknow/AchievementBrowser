@@ -8,6 +8,18 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v50 — 2026-05-31
+
+**4 marker(s) · 2 achievement(s)**
+
+### Skyscale Rider: Kryta (id 4718)
+- add · "Lion's Arch 12 Mote (Start)" · map 50 · guide
+- add · "Lion's Arch 8 Mote (Start)" · map 50 · guide
+
+### No-Fun Police (id 6180)
+- add · "#1 Naksi Bay" · map 1438 · guide
+- add · "#2 Old Kaineng" · map 1438 · guide
+
 ## v49 — 2026-05-30
 
 **3 marker(s) · 1 achievement(s)**
