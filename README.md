@@ -8,6 +8,14 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v55 — 2026-06-04
+
+**2 marker(s) · 1 achievement(s)**
+
+### Achievement #2462 (id 2462)
+- remove · "The Longest Glide" · map 1045 · guide
+- remove · "Finish Sign" · map 1045 · guide
+
 ## v54 — 2026-06-04
 
 **2 marker(s) · 1 achievement(s)**
