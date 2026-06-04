@@ -8,6 +8,30 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v53 — 2026-06-04
+
+**12 marker(s) · 4 achievement(s)**
+
+### The Longest Glide (id 2462)
+- remove · "Finish Sign" · map 1045 · objective
+- edit · "Start Gliding here" · map 1045 · guide
+- remove · "Finish Sign" · map 1045 · objective
+- remove · "The Longest Glide" · map 1045 · objective
+- edit · "Complete the achievement while gliding" · map 1045 · guide
+
+### Tracing the Tapestry (id 6074)
+- remove · "Someone in Lion's Arch Canthan descent may know more" · map 50 · objective
+
+### Cultures of Echovald: The Kurzicks (id 6285)
+- add · "Cultures of Echovald: The Kurzicks bit 3" · map 1452 · bit 2
+- add · "Cultures of Echovald: The Kurzicks bit 6" · map 1452 · bit 5
+- add · "Cultures of Echovald: The Kurzicks bit 8" · map 1452 · bit 7
+- add · "Cultures of Echovald: The Kurzicks bit 9" · map 1452 · bit 8
+
+### Tropical Tomes (id 8894)
+- add · "Tropical Tomes bit 1" · map 1595 · bit 0
+- add · "Tropical Tomes bit 2" · map 1595 · bit 1
+
 ## v52 — 2026-05-31
 
 **6 marker(s) · 1 achievement(s)**

@@ -1,50 +1,104 @@
 {
-  "version": 52,
-  "published_at": "2026-05-31T15:33:07Z",
+  "version": 53,
+  "published_at": "2026-06-04T08:56:26Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "edd3fdfee81b59a71dd080edbb6788f69299dee09d513c20189dd4581fea549e",
-  "size": 259090,
+  "sha256": "1bce70cbea27cd715283d240228401212267bf7f6e5ba5f44eaf5ea3e472e02d",
+  "size": 259695,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 6387,
-      "name": "Arborstone Vaulter",
+      "ach_id": 2462,
+      "name": "The Longest Glide",
+      "markers": [
+        {
+          "op": "remove",
+          "name": "Finish Sign",
+          "map_id": 1045,
+          "kind": "objective"
+        },
+        {
+          "op": "edit",
+          "name": "Start Gliding here",
+          "map_id": 1045,
+          "kind": "guide"
+        },
+        {
+          "op": "remove",
+          "name": "Finish Sign",
+          "map_id": 1045,
+          "kind": "objective"
+        },
+        {
+          "op": "remove",
+          "name": "The Longest Glide",
+          "map_id": 1045,
+          "kind": "objective"
+        },
+        {
+          "op": "edit",
+          "name": "Complete the achievement while gliding",
+          "map_id": 1045,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 6074,
+      "name": "Tracing the Tapestry",
+      "markers": [
+        {
+          "op": "remove",
+          "name": "Someone in Lion's Arch Canthan descent may know more",
+          "map_id": 50,
+          "kind": "objective"
+        }
+      ]
+    },
+    {
+      "ach_id": 6285,
+      "name": "Cultures of Echovald: The Kurzicks",
       "markers": [
         {
           "op": "add",
-          "name": "#22 Blessing of Arborstone",
-          "map_id": 1428,
-          "kind": "guide"
+          "name": "Cultures of Echovald: The Kurzicks bit 3",
+          "map_id": 1452,
+          "kind": "bit 2"
         },
         {
           "op": "add",
-          "name": "#23 Blessing of Arborstone",
-          "map_id": 1428,
-          "kind": "guide"
+          "name": "Cultures of Echovald: The Kurzicks bit 6",
+          "map_id": 1452,
+          "kind": "bit 5"
         },
         {
           "op": "add",
-          "name": "#24 Blessing of Arborstone",
-          "map_id": 1428,
-          "kind": "guide"
+          "name": "Cultures of Echovald: The Kurzicks bit 8",
+          "map_id": 1452,
+          "kind": "bit 7"
         },
         {
           "op": "add",
-          "name": "#25 Blessing of Arborstone",
-          "map_id": 1428,
-          "kind": "guide"
+          "name": "Cultures of Echovald: The Kurzicks bit 9",
+          "map_id": 1452,
+          "kind": "bit 8"
+        }
+      ]
+    },
+    {
+      "ach_id": 8894,
+      "name": "Tropical Tomes",
+      "markers": [
+        {
+          "op": "add",
+          "name": "Tropical Tomes bit 1",
+          "map_id": 1595,
+          "kind": "bit 0"
         },
         {
           "op": "add",
-          "name": "#26 Blessing of Arborstone",
-          "map_id": 1428,
-          "kind": "guide"
-        },
-        {
-          "op": "add",
-          "name": "#27 Blessing of Arborstone",
-          "map_id": 1428,
-          "kind": "guide"
+          "name": "Tropical Tomes bit 2",
+          "map_id": 1595,
+          "kind": "bit 1"
         }
       ]
     }
