@@ -8,6 +8,56 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v56 — 2026-06-04
+
+**42 marker(s) · 2 achievement(s)**
+
+### (Annual) Color the Sky (id 4850)
+- add · "#1 Fireworks Launcher" · map 326 · guide
+- add · "#2 Fireworks Launcher" · map 326 · guide
+- add · "#3 Fireworks Launcher" · map 326 · guide
+- add · "#4 Fireworks Launcher" · map 326 · guide
+- add · "#5 Fireworks Launcher" · map 326 · guide
+- add · "#6 Fireworks Launcher" · map 326 · guide
+
+### Daily Bonus Rewards: Piñata Smashing (id 5842)
+- add · "#1 Piñata" · map 326 · guide
+- add · "#2 Piñata" · map 326 · guide
+- add · "#3 Piñata" · map 326 · guide
+- add · "#4 Piñata" · map 326 · guide
+- add · "#5 Piñata" · map 326 · guide
+- add · "#6 Piñata" · map 326 · guide
+- add · "#7 Piñata" · map 326 · guide
+- add · "#8 Piñata" · map 326 · guide
+- add · "#9 Piñata" · map 326 · guide
+- add · "#10 Piñata" · map 326 · guide
+- add · "#11 Piñata" · map 326 · guide
+- add · "#12 Piñata" · map 326 · guide
+- add · "#13 Piñata" · map 326 · guide
+- add · "#14 Piñata" · map 326 · guide
+- add · "#15 Piñata" · map 326 · guide
+- add · "#16 Piñata" · map 326 · guide
+- add · "#17 Piñata" · map 326 · guide
+- add · "#18 Piñata" · map 326 · guide
+- add · "#19 Piñata" · map 326 · guide
+- add · "#20 Piñata" · map 326 · guide
+- add · "#21 Piñata" · map 326 · guide
+- add · "#22 Piñata" · map 326 · guide
+- add · "#23 Piñata" · map 326 · guide
+- add · "#24 Piñata" · map 326 · guide
+- add · "#25 Piñata" · map 326 · guide
+- add · "#26 Piñata" · map 326 · guide
+- add · "#27 Piñata" · map 326 · guide
+- add · "#28 Piñata" · map 326 · guide
+- add · "#29 Piñata" · map 326 · guide
+- add · "#30 Piñata" · map 326 · guide
+- add · "#31 Piñata" · map 326 · guide
+- add · "#32 Piñata" · map 326 · guide
+- add · "#33 Piñata" · map 326 · guide
+- add · "#34 Piñata" · map 326 · guide
+- add · "#35 Piñata" · map 326 · guide
+- add · "#36 Piñata" · map 326 · guide
+
 ## v55 — 2026-06-04
 
 **2 marker(s) · 1 achievement(s)**

@@ -1,5 +1,275 @@
 [
   {
+    "version": 56,
+    "date": "2026-06-04",
+    "achievements": [
+      {
+        "ach_id": 4850,
+        "name": "(Annual) Color the Sky",
+        "markers": [
+          {
+            "op": "add",
+            "name": "#1 Fireworks Launcher",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#2 Fireworks Launcher",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#3 Fireworks Launcher",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#4 Fireworks Launcher",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#5 Fireworks Launcher",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#6 Fireworks Launcher",
+            "map_id": 326,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 5842,
+        "name": "Daily Bonus Rewards: Piñata Smashing",
+        "markers": [
+          {
+            "op": "add",
+            "name": "#1 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#2 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#3 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#4 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#5 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#6 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#7 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#8 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#9 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#10 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#11 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#12 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#13 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#14 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#15 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#16 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#17 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#18 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#19 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#20 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#21 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#22 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#23 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#24 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#25 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#26 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#27 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#28 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#29 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#30 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#31 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#32 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#33 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#34 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#35 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "#36 Piñata",
+            "map_id": 326,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 55,
     "date": "2026-06-04",
     "achievements": [

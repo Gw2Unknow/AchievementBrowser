@@ -1,25 +1,271 @@
 {
-  "version": 55,
-  "published_at": "2026-06-04T11:42:33Z",
+  "version": 56,
+  "published_at": "2026-06-04T20:46:36Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "d5011c3625302d763bafde1c7b6195e37d7a9e63f5efcfd992fbfbc8f1b1b226",
-  "size": 259950,
+  "sha256": "c0c5138b556d7f583a30d9d9dcb89bd883d6f836540280e3a16b757937c264c2",
+  "size": 262820,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 2462,
-      "name": "Achievement #2462",
+      "ach_id": 4850,
+      "name": "(Annual) Color the Sky",
       "markers": [
         {
-          "op": "remove",
-          "name": "The Longest Glide",
-          "map_id": 1045,
+          "op": "add",
+          "name": "#1 Fireworks Launcher",
+          "map_id": 326,
           "kind": "guide"
         },
         {
-          "op": "remove",
-          "name": "Finish Sign",
-          "map_id": 1045,
+          "op": "add",
+          "name": "#2 Fireworks Launcher",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#3 Fireworks Launcher",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#4 Fireworks Launcher",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#5 Fireworks Launcher",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#6 Fireworks Launcher",
+          "map_id": 326,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 5842,
+      "name": "Daily Bonus Rewards: Pi\u00f1ata Smashing",
+      "markers": [
+        {
+          "op": "add",
+          "name": "#1 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#2 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#3 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#4 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#5 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#6 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#7 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#8 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#9 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#10 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#11 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#12 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#13 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#14 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#15 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#16 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#17 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#18 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#19 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#20 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#21 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#22 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#23 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#24 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#25 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#26 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#27 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#28 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#29 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#30 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#31 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#32 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#33 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#34 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#35 Pi\u00f1ata",
+          "map_id": 326,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "#36 Pi\u00f1ata",
+          "map_id": 326,
           "kind": "guide"
         }
       ]
