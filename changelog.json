@@ -1,5 +1,29 @@
 [
   {
+    "version": 54,
+    "date": "2026-06-04",
+    "achievements": [
+      {
+        "ach_id": 2462,
+        "name": "The Longest Glide",
+        "markers": [
+          {
+            "op": "remove",
+            "name": "The Longest Glide",
+            "map_id": 1045,
+            "kind": "objective"
+          },
+          {
+            "op": "remove",
+            "name": "Finish Sign",
+            "map_id": 1045,
+            "kind": "objective"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 53,
     "date": "2026-06-04",
     "achievements": [
