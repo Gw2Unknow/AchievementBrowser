@@ -8,6 +8,21 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v57 — 2026-06-08
+
+**7 marker(s) · 2 achievement(s)**
+
+### Coalescence I: Unbridled (id 4035)
+- add · "Coalescence I: Unbridled bit 5" · map 1210 · bit 4
+- add · "Coalescence I: Unbridled bit 6" · map 1211 · bit 5
+- add · "Coalescence I: Unbridled bit 7" · map 1228 · bit 6
+- add · "Coalescence I: Unbridled bit 8" · map 1226 · bit 7
+- add · "Coalescence I: Unbridled bit 9" · map 1248 · bit 8
+- add · "Coalescence I: Unbridled bit 10" · map 1211 · bit 9
+
+### The Fate of House zu Heltzer (id 6448)
+- add · "The Fate of House zu Heltzer bit 5" · map 1452 · bit 4
+
 ## v56 — 2026-06-04
 
 **42 marker(s) · 2 achievement(s)**

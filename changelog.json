@@ -1,5 +1,65 @@
 [
   {
+    "version": 57,
+    "date": "2026-06-08",
+    "achievements": [
+      {
+        "ach_id": 4035,
+        "name": "Coalescence I: Unbridled",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Coalescence I: Unbridled bit 5",
+            "map_id": 1210,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Coalescence I: Unbridled bit 6",
+            "map_id": 1211,
+            "kind": "bit 5"
+          },
+          {
+            "op": "add",
+            "name": "Coalescence I: Unbridled bit 7",
+            "map_id": 1228,
+            "kind": "bit 6"
+          },
+          {
+            "op": "add",
+            "name": "Coalescence I: Unbridled bit 8",
+            "map_id": 1226,
+            "kind": "bit 7"
+          },
+          {
+            "op": "add",
+            "name": "Coalescence I: Unbridled bit 9",
+            "map_id": 1248,
+            "kind": "bit 8"
+          },
+          {
+            "op": "add",
+            "name": "Coalescence I: Unbridled bit 10",
+            "map_id": 1211,
+            "kind": "bit 9"
+          }
+        ]
+      },
+      {
+        "ach_id": 6448,
+        "name": "The Fate of House zu Heltzer",
+        "markers": [
+          {
+            "op": "add",
+            "name": "The Fate of House zu Heltzer bit 5",
+            "map_id": 1452,
+            "kind": "bit 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 56,
     "date": "2026-06-04",
     "achievements": [
