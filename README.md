@@ -8,6 +8,13 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v58 — 2026-06-10
+
+**1 marker(s) · 1 achievement(s)**
+
+### Scouting the Area (id 6647)
+- add · "#1 POI / waypoint" · map 15 · guide
+
 ## v57 — 2026-06-08
 
 **7 marker(s) · 2 achievement(s)**

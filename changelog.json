@@ -1,5 +1,23 @@
 [
   {
+    "version": 58,
+    "date": "2026-06-10",
+    "achievements": [
+      {
+        "ach_id": 6647,
+        "name": "Scouting the Area",
+        "markers": [
+          {
+            "op": "add",
+            "name": "#1 POI / waypoint",
+            "map_id": 15,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 57,
     "date": "2026-06-08",
     "achievements": [

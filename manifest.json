@@ -1,62 +1,20 @@
 {
-  "version": 57,
-  "published_at": "2026-06-08T19:27:42Z",
+  "version": 58,
+  "published_at": "2026-06-10T09:25:08Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "097d7799e1451dddc327edaf92f302ad46b25360d14d582a0fbefeef05ad9c4b",
-  "size": 263535,
+  "sha256": "9e20d17a2e187bbe667abad18dcef03c17f36d5d130db85be17b5d5625772dd7",
+  "size": 263622,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 4035,
-      "name": "Coalescence I: Unbridled",
+      "ach_id": 6647,
+      "name": "Scouting the Area",
       "markers": [
         {
           "op": "add",
-          "name": "Coalescence I: Unbridled bit 5",
-          "map_id": 1210,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence I: Unbridled bit 6",
-          "map_id": 1211,
-          "kind": "bit 5"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence I: Unbridled bit 7",
-          "map_id": 1228,
-          "kind": "bit 6"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence I: Unbridled bit 8",
-          "map_id": 1226,
-          "kind": "bit 7"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence I: Unbridled bit 9",
-          "map_id": 1248,
-          "kind": "bit 8"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence I: Unbridled bit 10",
-          "map_id": 1211,
-          "kind": "bit 9"
-        }
-      ]
-    },
-    {
-      "ach_id": 6448,
-      "name": "The Fate of House zu Heltzer",
-      "markers": [
-        {
-          "op": "add",
-          "name": "The Fate of House zu Heltzer bit 5",
-          "map_id": 1452,
-          "kind": "bit 4"
+          "name": "#1 POI / waypoint",
+          "map_id": 15,
+          "kind": "guide"
         }
       ]
     }
