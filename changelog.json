@@ -1,5 +1,95 @@
 [
   {
+    "version": 59,
+    "date": "2026-06-14",
+    "achievements": [
+      {
+        "ach_id": 4949,
+        "name": "Grothmar Valley Historian",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Tail marker",
+            "map_id": 1330,
+            "kind": "bit 4"
+          },
+          {
+            "op": "edit",
+            "name": "Claw marker",
+            "map_id": 1330,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Mountain marker",
+            "map_id": 1330,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Animal marker",
+            "map_id": 1330,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Smiley face marker",
+            "map_id": 1330,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Tree marker",
+            "map_id": 1330,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Fire marker",
+            "map_id": 1330,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Waves marker",
+            "map_id": 1330,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Check order here",
+            "map_id": 1330,
+            "kind": "bit 4"
+          }
+        ]
+      },
+      {
+        "ach_id": 5245,
+        "name": "Master Diplomat",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1373,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 5275,
+        "name": "Fast Purrsuit",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1372,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 58,
     "date": "2026-06-10",
     "achievements": [

@@ -8,6 +8,27 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v59 — 2026-06-14
+
+**11 marker(s) · 3 achievement(s)**
+
+### Grothmar Valley Historian (id 4949)
+- add · "Tail marker" · map 1330 · bit 4
+- edit · "Claw marker" · map 1330 · bit 4
+- add · "Mountain marker" · map 1330 · bit 4
+- add · "Animal marker" · map 1330 · bit 4
+- add · "Smiley face marker" · map 1330 · bit 4
+- add · "Tree marker" · map 1330 · bit 4
+- add · "Fire marker" · map 1330 · bit 4
+- add · "Waves marker" · map 1330 · bit 4
+- add · "Check order here" · map 1330 · bit 4
+
+### Master Diplomat (id 5245)
+- add · "POI / waypoint" · map 1373 · guide
+
+### Fast Purrsuit (id 5275)
+- add · "POI / waypoint" · map 1372 · guide
+
 ## v58 — 2026-06-10
 
 **1 marker(s) · 1 achievement(s)**
