@@ -1,92 +1,128 @@
 {
-  "version": 59,
-  "published_at": "2026-06-14T14:31:36Z",
+  "version": 60,
+  "published_at": "2026-06-16T21:57:27Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "e7a8541c4f08058fc2a5a1d4180b210be30ca4bd072bf6bd9ddf89eb07514563",
-  "size": 264715,
+  "sha256": "8a7f043d896014c02851f75df7cbcb3e6c158e904039a062301972d3e1a37531",
+  "size": 265481,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 4949,
-      "name": "Grothmar Valley Historian",
-      "markers": [
-        {
-          "op": "add",
-          "name": "Tail marker",
-          "map_id": 1330,
-          "kind": "bit 4"
-        },
-        {
-          "op": "edit",
-          "name": "Claw marker",
-          "map_id": 1330,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Mountain marker",
-          "map_id": 1330,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Animal marker",
-          "map_id": 1330,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Smiley face marker",
-          "map_id": 1330,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Tree marker",
-          "map_id": 1330,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Fire marker",
-          "map_id": 1330,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Waves marker",
-          "map_id": 1330,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Check order here",
-          "map_id": 1330,
-          "kind": "bit 4"
-        }
-      ]
-    },
-    {
-      "ach_id": 5245,
-      "name": "Master Diplomat",
+      "ach_id": 4171,
+      "name": "Master Diver: Kessex Hills",
       "markers": [
         {
           "op": "add",
           "name": "POI / waypoint",
-          "map_id": 1373,
+          "map_id": 23,
           "kind": "guide"
         }
       ]
     },
     {
-      "ach_id": 5275,
-      "name": "Fast Purrsuit",
+      "ach_id": 4172,
+      "name": "Master Diver: Frostgorge Sound",
       "markers": [
         {
           "op": "add",
           "name": "POI / waypoint",
-          "map_id": 1372,
+          "map_id": 30,
           "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 4173,
+      "name": "Master Diver: Snowden Drifts",
+      "markers": [
+        {
+          "op": "add",
+          "name": "POI / waypoint",
+          "map_id": 31,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 4174,
+      "name": "Master Diver: Gendarran Fields",
+      "markers": [
+        {
+          "op": "add",
+          "name": "POI / waypoint",
+          "map_id": 24,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 4175,
+      "name": "Master Diver: Lornar's Pass",
+      "markers": [
+        {
+          "op": "add",
+          "name": "POI / waypoint",
+          "map_id": 27,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 4176,
+      "name": "Master Diver: Bloodtide Coast",
+      "markers": [
+        {
+          "op": "add",
+          "name": "POI / waypoint",
+          "map_id": 73,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 4178,
+      "name": "Master Diver: Iron Marches",
+      "markers": [
+        {
+          "op": "add",
+          "name": "POI / waypoint",
+          "map_id": 25,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 4179,
+      "name": "Master Diver: Timberline Falls",
+      "markers": [
+        {
+          "op": "add",
+          "name": "POI / waypoint",
+          "map_id": 29,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 4180,
+      "name": "Master Diver: Harathi Hinterlands",
+      "markers": [
+        {
+          "op": "add",
+          "name": "POI / waypoint",
+          "map_id": 17,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 6239,
+      "name": "Illuminating Seitung Province",
+      "markers": [
+        {
+          "op": "add",
+          "name": "Illuminating Seitung Province bit 41",
+          "map_id": 1442,
+          "kind": "bit 40"
         }
       ]
     }

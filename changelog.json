@@ -1,5 +1,131 @@
 [
   {
+    "version": 60,
+    "date": "2026-06-16",
+    "achievements": [
+      {
+        "ach_id": 4171,
+        "name": "Master Diver: Kessex Hills",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 23,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 4172,
+        "name": "Master Diver: Frostgorge Sound",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 30,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 4173,
+        "name": "Master Diver: Snowden Drifts",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 31,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 4174,
+        "name": "Master Diver: Gendarran Fields",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 24,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 4175,
+        "name": "Master Diver: Lornar's Pass",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 27,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 4176,
+        "name": "Master Diver: Bloodtide Coast",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 73,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 4178,
+        "name": "Master Diver: Iron Marches",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 25,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 4179,
+        "name": "Master Diver: Timberline Falls",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 29,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 4180,
+        "name": "Master Diver: Harathi Hinterlands",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 17,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 6239,
+        "name": "Illuminating Seitung Province",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Illuminating Seitung Province bit 41",
+            "map_id": 1442,
+            "kind": "bit 40"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 59,
     "date": "2026-06-14",
     "achievements": [

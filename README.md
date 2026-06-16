@@ -8,6 +8,40 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v60 — 2026-06-16
+
+**10 marker(s) · 10 achievement(s)**
+
+### Master Diver: Kessex Hills (id 4171)
+- add · "POI / waypoint" · map 23 · guide
+
+### Master Diver: Frostgorge Sound (id 4172)
+- add · "POI / waypoint" · map 30 · guide
+
+### Master Diver: Snowden Drifts (id 4173)
+- add · "POI / waypoint" · map 31 · guide
+
+### Master Diver: Gendarran Fields (id 4174)
+- add · "POI / waypoint" · map 24 · guide
+
+### Master Diver: Lornar's Pass (id 4175)
+- add · "POI / waypoint" · map 27 · guide
+
+### Master Diver: Bloodtide Coast (id 4176)
+- add · "POI / waypoint" · map 73 · guide
+
+### Master Diver: Iron Marches (id 4178)
+- add · "POI / waypoint" · map 25 · guide
+
+### Master Diver: Timberline Falls (id 4179)
+- add · "POI / waypoint" · map 29 · guide
+
+### Master Diver: Harathi Hinterlands (id 4180)
+- add · "POI / waypoint" · map 17 · guide
+
+### Illuminating Seitung Province (id 6239)
+- add · "Illuminating Seitung Province bit 41" · map 1442 · bit 40
+
 ## v59 — 2026-06-14
 
 **11 marker(s) · 3 achievement(s)**
