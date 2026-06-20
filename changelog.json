@@ -1,5 +1,89 @@
 [
   {
+    "version": 61,
+    "date": "2026-06-20",
+    "achievements": [
+      {
+        "ach_id": 4170,
+        "name": "Master Diver: Mount Maelstrom",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 39,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 8761,
+        "name": "Unknown Nightmares: Experiments in the Shadows",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 1",
+            "map_id": 1574,
+            "kind": "bit 0"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 2",
+            "map_id": 1575,
+            "kind": "bit 1"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 3",
+            "map_id": 1574,
+            "kind": "bit 2"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 4",
+            "map_id": 15,
+            "kind": "bit 3"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 5",
+            "map_id": 1574,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 6",
+            "map_id": 25,
+            "kind": "bit 5"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 7",
+            "map_id": 1574,
+            "kind": "bit 6"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 8",
+            "map_id": 1370,
+            "kind": "bit 7"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 9",
+            "map_id": 1574,
+            "kind": "bit 8"
+          },
+          {
+            "op": "add",
+            "name": "Unknown Nightmares: Experiments in the Shadows bit 10",
+            "map_id": 1574,
+            "kind": "bit 9"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 60,
     "date": "2026-06-16",
     "achievements": [

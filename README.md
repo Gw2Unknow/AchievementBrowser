@@ -8,6 +8,25 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v61 — 2026-06-20
+
+**11 marker(s) · 2 achievement(s)**
+
+### Master Diver: Mount Maelstrom (id 4170)
+- add · "POI / waypoint" · map 39 · guide
+
+### Unknown Nightmares: Experiments in the Shadows (id 8761)
+- add · "Unknown Nightmares: Experiments in the Shadows bit 1" · map 1574 · bit 0
+- add · "Unknown Nightmares: Experiments in the Shadows bit 2" · map 1575 · bit 1
+- add · "Unknown Nightmares: Experiments in the Shadows bit 3" · map 1574 · bit 2
+- add · "Unknown Nightmares: Experiments in the Shadows bit 4" · map 15 · bit 3
+- add · "Unknown Nightmares: Experiments in the Shadows bit 5" · map 1574 · bit 4
+- add · "Unknown Nightmares: Experiments in the Shadows bit 6" · map 25 · bit 5
+- add · "Unknown Nightmares: Experiments in the Shadows bit 7" · map 1574 · bit 6
+- add · "Unknown Nightmares: Experiments in the Shadows bit 8" · map 1370 · bit 7
+- add · "Unknown Nightmares: Experiments in the Shadows bit 9" · map 1574 · bit 8
+- add · "Unknown Nightmares: Experiments in the Shadows bit 10" · map 1574 · bit 9
+
 ## v60 — 2026-06-16
 
 **10 marker(s) · 10 achievement(s)**

@@ -1,128 +1,86 @@
 {
-  "version": 60,
-  "published_at": "2026-06-16T21:57:27Z",
+  "version": 61,
+  "published_at": "2026-06-20T00:09:49Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "8a7f043d896014c02851f75df7cbcb3e6c158e904039a062301972d3e1a37531",
-  "size": 265481,
+  "sha256": "78d45d4c7c00b9afba1047bfc6793c8dec3340be6f7b626b72ce5ad1d3290c06",
+  "size": 266303,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 4171,
-      "name": "Master Diver: Kessex Hills",
+      "ach_id": 4170,
+      "name": "Master Diver: Mount Maelstrom",
       "markers": [
         {
           "op": "add",
           "name": "POI / waypoint",
-          "map_id": 23,
+          "map_id": 39,
           "kind": "guide"
         }
       ]
     },
     {
-      "ach_id": 4172,
-      "name": "Master Diver: Frostgorge Sound",
+      "ach_id": 8761,
+      "name": "Unknown Nightmares: Experiments in the Shadows",
       "markers": [
         {
           "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 30,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 4173,
-      "name": "Master Diver: Snowden Drifts",
-      "markers": [
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 1",
+          "map_id": 1574,
+          "kind": "bit 0"
+        },
         {
           "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 31,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 4174,
-      "name": "Master Diver: Gendarran Fields",
-      "markers": [
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 2",
+          "map_id": 1575,
+          "kind": "bit 1"
+        },
         {
           "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 24,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 4175,
-      "name": "Master Diver: Lornar's Pass",
-      "markers": [
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 3",
+          "map_id": 1574,
+          "kind": "bit 2"
+        },
         {
           "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 27,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 4176,
-      "name": "Master Diver: Bloodtide Coast",
-      "markers": [
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 4",
+          "map_id": 15,
+          "kind": "bit 3"
+        },
         {
           "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 73,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 4178,
-      "name": "Master Diver: Iron Marches",
-      "markers": [
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 5",
+          "map_id": 1574,
+          "kind": "bit 4"
+        },
         {
           "op": "add",
-          "name": "POI / waypoint",
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 6",
           "map_id": 25,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 4179,
-      "name": "Master Diver: Timberline Falls",
-      "markers": [
+          "kind": "bit 5"
+        },
         {
           "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 29,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 4180,
-      "name": "Master Diver: Harathi Hinterlands",
-      "markers": [
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 7",
+          "map_id": 1574,
+          "kind": "bit 6"
+        },
         {
           "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 17,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 6239,
-      "name": "Illuminating Seitung Province",
-      "markers": [
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 8",
+          "map_id": 1370,
+          "kind": "bit 7"
+        },
         {
           "op": "add",
-          "name": "Illuminating Seitung Province bit 41",
-          "map_id": 1442,
-          "kind": "bit 40"
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 9",
+          "map_id": 1574,
+          "kind": "bit 8"
+        },
+        {
+          "op": "add",
+          "name": "Unknown Nightmares: Experiments in the Shadows bit 10",
+          "map_id": 1574,
+          "kind": "bit 9"
         }
       ]
     }
