@@ -1,5 +1,83 @@
 [
   {
+    "version": 62,
+    "date": "2026-06-25",
+    "achievements": [
+      {
+        "ach_id": 8202,
+        "name": "Warclaw Run Adventure: Bronze",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1550,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 8250,
+        "name": "Warclaw Run Adventure: Silver",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1550,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 8303,
+        "name": "Harvest Shore Salmon Run: Silver",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1550,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 8340,
+        "name": "Warclaw Run Adventure: Gold",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1550,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 8342,
+        "name": "Harvest Shore Salmon Run: Gold",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1550,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 8344,
+        "name": "Harvest Shore Salmon Run: Bronze",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1550,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 61,
     "date": "2026-06-20",
     "achievements": [

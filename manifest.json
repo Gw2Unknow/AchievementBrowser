@@ -1,86 +1,80 @@
 {
-  "version": 61,
-  "published_at": "2026-06-20T00:09:49Z",
+  "version": 62,
+  "published_at": "2026-06-25T18:39:55Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "78d45d4c7c00b9afba1047bfc6793c8dec3340be6f7b626b72ce5ad1d3290c06",
-  "size": 266303,
+  "sha256": "860f2e28d400aaf9c5d9908f0637de760db642320ad118baf1ace4c8ff756ca9",
+  "size": 266627,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 4170,
-      "name": "Master Diver: Mount Maelstrom",
+      "ach_id": 8202,
+      "name": "Warclaw Run Adventure: Bronze",
       "markers": [
         {
           "op": "add",
           "name": "POI / waypoint",
-          "map_id": 39,
+          "map_id": 1550,
           "kind": "guide"
         }
       ]
     },
     {
-      "ach_id": 8761,
-      "name": "Unknown Nightmares: Experiments in the Shadows",
+      "ach_id": 8250,
+      "name": "Warclaw Run Adventure: Silver",
       "markers": [
         {
           "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 1",
-          "map_id": 1574,
-          "kind": "bit 0"
-        },
+          "name": "POI / waypoint",
+          "map_id": 1550,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 8303,
+      "name": "Harvest Shore Salmon Run: Silver",
+      "markers": [
         {
           "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 2",
-          "map_id": 1575,
-          "kind": "bit 1"
-        },
+          "name": "POI / waypoint",
+          "map_id": 1550,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 8340,
+      "name": "Warclaw Run Adventure: Gold",
+      "markers": [
         {
           "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 3",
-          "map_id": 1574,
-          "kind": "bit 2"
-        },
+          "name": "POI / waypoint",
+          "map_id": 1550,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 8342,
+      "name": "Harvest Shore Salmon Run: Gold",
+      "markers": [
         {
           "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 4",
-          "map_id": 15,
-          "kind": "bit 3"
-        },
+          "name": "POI / waypoint",
+          "map_id": 1550,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 8344,
+      "name": "Harvest Shore Salmon Run: Bronze",
+      "markers": [
         {
           "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 5",
-          "map_id": 1574,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 6",
-          "map_id": 25,
-          "kind": "bit 5"
-        },
-        {
-          "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 7",
-          "map_id": 1574,
-          "kind": "bit 6"
-        },
-        {
-          "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 8",
-          "map_id": 1370,
-          "kind": "bit 7"
-        },
-        {
-          "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 9",
-          "map_id": 1574,
-          "kind": "bit 8"
-        },
-        {
-          "op": "add",
-          "name": "Unknown Nightmares: Experiments in the Shadows bit 10",
-          "map_id": 1574,
-          "kind": "bit 9"
+          "name": "POI / waypoint",
+          "map_id": 1550,
+          "kind": "guide"
         }
       ]
     }

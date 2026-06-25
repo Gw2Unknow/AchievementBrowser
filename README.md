@@ -8,6 +8,28 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v62 — 2026-06-25
+
+**6 marker(s) · 6 achievement(s)**
+
+### Warclaw Run Adventure: Bronze (id 8202)
+- add · "POI / waypoint" · map 1550 · guide
+
+### Warclaw Run Adventure: Silver (id 8250)
+- add · "POI / waypoint" · map 1550 · guide
+
+### Harvest Shore Salmon Run: Silver (id 8303)
+- add · "POI / waypoint" · map 1550 · guide
+
+### Warclaw Run Adventure: Gold (id 8340)
+- add · "POI / waypoint" · map 1550 · guide
+
+### Harvest Shore Salmon Run: Gold (id 8342)
+- add · "POI / waypoint" · map 1550 · guide
+
+### Harvest Shore Salmon Run: Bronze (id 8344)
+- add · "POI / waypoint" · map 1550 · guide
+
 ## v61 — 2026-06-20
 
 **11 marker(s) · 2 achievement(s)**
