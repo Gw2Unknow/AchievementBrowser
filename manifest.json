@@ -1,79 +1,43 @@
 {
-  "version": 62,
-  "published_at": "2026-06-25T18:39:55Z",
+  "version": 63,
+  "published_at": "2026-06-26T23:27:49Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "860f2e28d400aaf9c5d9908f0637de760db642320ad118baf1ace4c8ff756ca9",
-  "size": 266627,
+  "sha256": "635f5497ef984b46e69f33f292822a074e5352b6c67f7f6341192a618404464d",
+  "size": 266844,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 8202,
-      "name": "Warclaw Run Adventure: Bronze",
+      "ach_id": 3395,
+      "name": "Golemancer's Treasure",
       "markers": [
         {
           "op": "add",
           "name": "POI / waypoint",
-          "map_id": 1550,
+          "map_id": 1195,
           "kind": "guide"
         }
       ]
     },
     {
-      "ach_id": 8250,
-      "name": "Warclaw Run Adventure: Silver",
+      "ach_id": 3427,
+      "name": "Crypt Keeper",
       "markers": [
         {
           "op": "add",
           "name": "POI / waypoint",
-          "map_id": 1550,
+          "map_id": 1195,
           "kind": "guide"
         }
       ]
     },
     {
-      "ach_id": 8303,
-      "name": "Harvest Shore Salmon Run: Silver",
+      "ach_id": 5800,
+      "name": "Second Dive: Hot Splashes",
       "markers": [
         {
           "op": "add",
           "name": "POI / waypoint",
-          "map_id": 1550,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 8340,
-      "name": "Warclaw Run Adventure: Gold",
-      "markers": [
-        {
-          "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 1550,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 8342,
-      "name": "Harvest Shore Salmon Run: Gold",
-      "markers": [
-        {
-          "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 1550,
-          "kind": "guide"
-        }
-      ]
-    },
-    {
-      "ach_id": 8344,
-      "name": "Harvest Shore Salmon Run: Bronze",
-      "markers": [
-        {
-          "op": "add",
-          "name": "POI / waypoint",
-          "map_id": 1550,
+          "map_id": 1195,
           "kind": "guide"
         }
       ]

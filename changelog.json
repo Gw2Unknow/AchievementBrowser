@@ -1,5 +1,47 @@
 [
   {
+    "version": 63,
+    "date": "2026-06-26",
+    "achievements": [
+      {
+        "ach_id": 3395,
+        "name": "Golemancer's Treasure",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1195,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 3427,
+        "name": "Crypt Keeper",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1195,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 5800,
+        "name": "Second Dive: Hot Splashes",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1195,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 62,
     "date": "2026-06-25",
     "achievements": [
