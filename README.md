@@ -8,6 +8,19 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v64 — 2026-06-26
+
+**3 marker(s) · 3 achievement(s)**
+
+### Golemancer's Treasure (id 3395)
+- add · "POI / waypoint" · map 1195 · guide
+
+### Crypt Keeper (id 3427)
+- add · "POI / waypoint" · map 1195 · guide
+
+### Second Dive: Hot Splashes (id 5800)
+- add · "POI / waypoint" · map 1195 · guide
+
 ## v63 — 2026-06-26
 
 **3 marker(s) · 3 achievement(s)**
