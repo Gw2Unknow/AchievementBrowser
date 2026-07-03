@@ -1,5 +1,209 @@
 [
   {
+    "version": 65,
+    "date": "2026-07-03",
+    "achievements": [
+      {
+        "ach_id": 3402,
+        "name": "The Druid Stone",
+        "markers": [
+          {
+            "op": "add",
+            "name": "The Druid Stone bit 3",
+            "map_id": 1195,
+            "kind": "bit 2"
+          },
+          {
+            "op": "add",
+            "name": "The Druid Stone bit 4",
+            "map_id": 1195,
+            "kind": "bit 3"
+          },
+          {
+            "op": "add",
+            "name": "The Druid Stone bit 5",
+            "map_id": 1195,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "The Druid Stone bit 6",
+            "map_id": 1195,
+            "kind": "bit 5"
+          },
+          {
+            "op": "add",
+            "name": "The Druid Stone bit 7",
+            "map_id": 1195,
+            "kind": "bit 6"
+          }
+        ]
+      },
+      {
+        "ach_id": 3405,
+        "name": "Burnin' Down the House",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1195,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 3407,
+        "name": "Arachnogenesis",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1195,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 3445,
+        "name": "Awakening the Druid Stone",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 2",
+            "map_id": 1195,
+            "kind": "bit 1"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 4",
+            "map_id": 1195,
+            "kind": "bit 3"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 5",
+            "map_id": 54,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 7",
+            "map_id": 1195,
+            "kind": "bit 6"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 8",
+            "map_id": 15,
+            "kind": "bit 7"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 10",
+            "map_id": 1195,
+            "kind": "bit 9"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 11",
+            "map_id": 1195,
+            "kind": "bit 10"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 12",
+            "map_id": 1195,
+            "kind": "bit 11"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 13",
+            "map_id": 1195,
+            "kind": "bit 12"
+          },
+          {
+            "op": "add",
+            "name": "Awakening the Druid Stone bit 14",
+            "map_id": 1195,
+            "kind": "bit 13"
+          }
+        ]
+      },
+      {
+        "ach_id": 3447,
+        "name": "Sprouting the Druid Stone",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 4",
+            "map_id": 1195,
+            "kind": "bit 3"
+          },
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 5",
+            "map_id": 1195,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 7",
+            "map_id": 1195,
+            "kind": "bit 6"
+          },
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 10",
+            "map_id": 1195,
+            "kind": "bit 9"
+          },
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 13",
+            "map_id": 1195,
+            "kind": "bit 12"
+          },
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 17",
+            "map_id": 1195,
+            "kind": "bit 16"
+          },
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 21",
+            "map_id": 1195,
+            "kind": "bit 20"
+          }
+        ]
+      },
+      {
+        "ach_id": 3491,
+        "name": "Lake Doric Master",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Lake Doric Master bit 16",
+            "map_id": 1185,
+            "kind": "bit 15"
+          }
+        ]
+      },
+      {
+        "ach_id": 5978,
+        "name": "Practiced Seeker",
+        "markers": [
+          {
+            "op": "add",
+            "name": "POI / waypoint",
+            "map_id": 1330,
+            "kind": "guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 64,
     "date": "2026-06-26",
     "achievements": [
