@@ -8,6 +8,32 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v66 — 2026-07-03
+
+**16 marker(s) · 3 achievement(s)**
+
+### Awakening the Druid Stone (id 3445)
+- add · "Awakening the Druid Stone bit 5" · map 54 · bit 4
+- add · "Awakening the Druid Stone bit 7" · map 1195 · bit 6
+- add · "Awakening the Druid Stone bit 8" · map 15 · bit 7
+- add · "Awakening the Druid Stone bit 10" · map 1195 · bit 9
+- add · "Awakening the Druid Stone bit 11" · map 1195 · bit 10
+- add · "Awakening the Druid Stone bit 12" · map 1195 · bit 11
+- add · "Awakening the Druid Stone bit 13" · map 1195 · bit 12
+- add · "Awakening the Druid Stone bit 14" · map 1195 · bit 13
+
+### Sprouting the Druid Stone (id 3447)
+- add · "Sprouting the Druid Stone bit 4" · map 1195 · bit 3
+- add · "Sprouting the Druid Stone bit 5" · map 1195 · bit 4
+- add · "Sprouting the Druid Stone bit 7" · map 1195 · bit 6
+- add · "Sprouting the Druid Stone bit 10" · map 1195 · bit 9
+- add · "Sprouting the Druid Stone bit 13" · map 1195 · bit 12
+- add · "Sprouting the Druid Stone bit 17" · map 1195 · bit 16
+- add · "Sprouting the Druid Stone bit 21" · map 1195 · bit 20
+
+### Lake Doric Master (id 3491)
+- add · "Lake Doric Master bit 16" · map 1185 · bit 15
+
 ## v65 — 2026-07-03
 
 **26 marker(s) · 7 achievement(s)**
