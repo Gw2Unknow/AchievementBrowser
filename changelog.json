@@ -1,5 +1,113 @@
 [
   {
+    "version": 68,
+    "date": "2026-07-09",
+    "achievements": [
+      {
+        "ach_id": 3235,
+        "name": "Cultural Attaché",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Cultural Attaché bit 2",
+            "map_id": 218,
+            "kind": "bit 1"
+          },
+          {
+            "op": "add",
+            "name": "Cultural Attaché bit 1",
+            "map_id": 18,
+            "kind": "bit 0"
+          },
+          {
+            "op": "add",
+            "name": "Cultural Attaché bit 3",
+            "map_id": 326,
+            "kind": "bit 2"
+          },
+          {
+            "op": "add",
+            "name": "Cultural Attaché bit 4",
+            "map_id": 139,
+            "kind": "bit 3"
+          },
+          {
+            "op": "add",
+            "name": "Cultural Attaché bit 5",
+            "map_id": 91,
+            "kind": "bit 4"
+          },
+          {
+            "op": "add",
+            "name": "Cultural Attaché bit 7",
+            "map_id": 988,
+            "kind": "bit 6"
+          }
+        ]
+      },
+      {
+        "ach_id": 3447,
+        "name": "Sprouting the Druid Stone",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 18",
+            "map_id": 1195,
+            "kind": "bit 17"
+          },
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 20",
+            "map_id": 1195,
+            "kind": "bit 19"
+          },
+          {
+            "op": "add",
+            "name": "Sprouting the Druid Stone bit 19",
+            "map_id": 1195,
+            "kind": "bit 18"
+          }
+        ]
+      },
+      {
+        "ach_id": 6969,
+        "name": "Zojja's Journal: Primal Maguuma",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Zojja's Journal: Primal Maguuma bit 1",
+            "map_id": 1510,
+            "kind": "bit 0"
+          }
+        ]
+      },
+      {
+        "ach_id": 7083,
+        "name": "Zojja's Journal",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Zojja's Journal bit 8",
+            "map_id": 1509,
+            "kind": "bit 7"
+          }
+        ]
+      },
+      {
+        "ach_id": 7207,
+        "name": "Zojja's Journal: Jade Mech Habitation Zone 03",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Zojja's Journal: Jade Mech Habitation Zone 03 bit 1",
+            "map_id": 1510,
+            "kind": "bit 0"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 67,
     "date": "2026-07-09",
     "achievements": [
