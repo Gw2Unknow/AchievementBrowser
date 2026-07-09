@@ -8,6 +8,32 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v67 — 2026-07-09
+
+**12 marker(s) · 5 achievement(s)**
+
+### Cultural Attaché (id 3235)
+- add · "Cultural Attaché bit 2" · map 218 · bit 1
+- add · "Cultural Attaché bit 1" · map 18 · bit 0
+- add · "Cultural Attaché bit 3" · map 326 · bit 2
+- add · "Cultural Attaché bit 4" · map 139 · bit 3
+- add · "Cultural Attaché bit 5" · map 91 · bit 4
+- add · "Cultural Attaché bit 7" · map 988 · bit 6
+
+### Sprouting the Druid Stone (id 3447)
+- add · "Sprouting the Druid Stone bit 18" · map 1195 · bit 17
+- add · "Sprouting the Druid Stone bit 20" · map 1195 · bit 19
+- add · "Sprouting the Druid Stone bit 19" · map 1195 · bit 18
+
+### Zojja's Journal: Primal Maguuma (id 6969)
+- add · "Zojja's Journal: Primal Maguuma bit 1" · map 1510 · bit 0
+
+### Zojja's Journal (id 7083)
+- add · "Zojja's Journal bit 8" · map 1509 · bit 7
+
+### Zojja's Journal: Jade Mech Habitation Zone 03 (id 7207)
+- add · "Zojja's Journal: Jade Mech Habitation Zone 03 bit 1" · map 1510 · bit 0
+
 ## v66 — 2026-07-03
 
 **16 marker(s) · 3 achievement(s)**

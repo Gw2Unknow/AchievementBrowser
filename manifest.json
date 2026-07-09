@@ -1,62 +1,50 @@
 {
-  "version": 66,
-  "published_at": "2026-07-03T01:33:16Z",
+  "version": 67,
+  "published_at": "2026-07-09T11:42:48Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "24a3d7b8e4df2c74c6c4f3d608d722abbc44caa28ca224a4b4cd81ce50af22a2",
-  "size": 268780,
+  "sha256": "4f914d425e8d88a97b4d94778a32686b605a94b2c3f03baa1066ac114bf458b6",
+  "size": 269735,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 3445,
-      "name": "Awakening the Druid Stone",
+      "ach_id": 3235,
+      "name": "Cultural Attach\u00e9",
       "markers": [
         {
           "op": "add",
-          "name": "Awakening the Druid Stone bit 5",
-          "map_id": 54,
+          "name": "Cultural Attach\u00e9 bit 2",
+          "map_id": 218,
+          "kind": "bit 1"
+        },
+        {
+          "op": "add",
+          "name": "Cultural Attach\u00e9 bit 1",
+          "map_id": 18,
+          "kind": "bit 0"
+        },
+        {
+          "op": "add",
+          "name": "Cultural Attach\u00e9 bit 3",
+          "map_id": 326,
+          "kind": "bit 2"
+        },
+        {
+          "op": "add",
+          "name": "Cultural Attach\u00e9 bit 4",
+          "map_id": 139,
+          "kind": "bit 3"
+        },
+        {
+          "op": "add",
+          "name": "Cultural Attach\u00e9 bit 5",
+          "map_id": 91,
           "kind": "bit 4"
         },
         {
           "op": "add",
-          "name": "Awakening the Druid Stone bit 7",
-          "map_id": 1195,
+          "name": "Cultural Attach\u00e9 bit 7",
+          "map_id": 988,
           "kind": "bit 6"
-        },
-        {
-          "op": "add",
-          "name": "Awakening the Druid Stone bit 8",
-          "map_id": 15,
-          "kind": "bit 7"
-        },
-        {
-          "op": "add",
-          "name": "Awakening the Druid Stone bit 10",
-          "map_id": 1195,
-          "kind": "bit 9"
-        },
-        {
-          "op": "add",
-          "name": "Awakening the Druid Stone bit 11",
-          "map_id": 1195,
-          "kind": "bit 10"
-        },
-        {
-          "op": "add",
-          "name": "Awakening the Druid Stone bit 12",
-          "map_id": 1195,
-          "kind": "bit 11"
-        },
-        {
-          "op": "add",
-          "name": "Awakening the Druid Stone bit 13",
-          "map_id": 1195,
-          "kind": "bit 12"
-        },
-        {
-          "op": "add",
-          "name": "Awakening the Druid Stone bit 14",
-          "map_id": 1195,
-          "kind": "bit 13"
         }
       ]
     },
@@ -66,57 +54,57 @@
       "markers": [
         {
           "op": "add",
-          "name": "Sprouting the Druid Stone bit 4",
+          "name": "Sprouting the Druid Stone bit 18",
           "map_id": 1195,
-          "kind": "bit 3"
+          "kind": "bit 17"
         },
         {
           "op": "add",
-          "name": "Sprouting the Druid Stone bit 5",
+          "name": "Sprouting the Druid Stone bit 20",
           "map_id": 1195,
-          "kind": "bit 4"
+          "kind": "bit 19"
         },
         {
           "op": "add",
-          "name": "Sprouting the Druid Stone bit 7",
+          "name": "Sprouting the Druid Stone bit 19",
           "map_id": 1195,
-          "kind": "bit 6"
-        },
-        {
-          "op": "add",
-          "name": "Sprouting the Druid Stone bit 10",
-          "map_id": 1195,
-          "kind": "bit 9"
-        },
-        {
-          "op": "add",
-          "name": "Sprouting the Druid Stone bit 13",
-          "map_id": 1195,
-          "kind": "bit 12"
-        },
-        {
-          "op": "add",
-          "name": "Sprouting the Druid Stone bit 17",
-          "map_id": 1195,
-          "kind": "bit 16"
-        },
-        {
-          "op": "add",
-          "name": "Sprouting the Druid Stone bit 21",
-          "map_id": 1195,
-          "kind": "bit 20"
+          "kind": "bit 18"
         }
       ]
     },
     {
-      "ach_id": 3491,
-      "name": "Lake Doric Master",
+      "ach_id": 6969,
+      "name": "Zojja's Journal: Primal Maguuma",
       "markers": [
         {
           "op": "add",
-          "name": "Lake Doric Master bit 16",
-          "map_id": 1185,
-          "kind": "bit 15"
+          "name": "Zojja's Journal: Primal Maguuma bit 1",
+          "map_id": 1510,
+          "kind": "bit 0"
+        }
+      ]
+    },
+    {
+      "ach_id": 7083,
+      "name": "Zojja's Journal",
+      "markers": [
+        {
+          "op": "add",
+          "name": "Zojja's Journal bit 8",
+          "map_id": 1509,
+          "kind": "bit 7"
+        }
+      ]
+    },
+    {
+      "ach_id": 7207,
+      "name": "Zojja's Journal: Jade Mech Habitation Zone 03",
+      "markers": [
+        {
+          "op": "add",
+          "name": "Zojja's Journal: Jade Mech Habitation Zone 03 bit 1",
+          "map_id": 1510,
+          "kind": "bit 0"
         }
       ]
     }
