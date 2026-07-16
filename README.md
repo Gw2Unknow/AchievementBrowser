@@ -8,6 +8,49 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v69 — 2026-07-16
+
+**35 marker(s) · 2 achievement(s)**
+
+### A Henge Away from Home (id 3436)
+- add · "A Henge Away from Home bit 18" · map 1195 · bit 17
+- add · "A Henge Away from Home bit 9" · map 1195 · bit 8
+- add · "A Henge Away from Home bit 19" · map 1195 · bit 18
+- add · "A Henge Away from Home bit 20" · map 1195 · bit 19
+- add · "A Henge Away from Home bit 21" · map 1195 · bit 20
+- add · "A Henge Away from Home bit 22" · map 1195 · bit 21
+- add · "A Henge Away from Home bit 23" · map 1195 · bit 22
+- add · "A Henge Away from Home bit 24" · map 39 · bit 23
+- add · "A Henge Away from Home bit 25" · map 988 · bit 24
+- add · "A Henge Away from Home bit 26" · map 62 · bit 25
+- add · "A Henge Away from Home bit 27" · map 1195 · bit 26
+- add · "A Henge Away from Home bit 28" · map 1195 · bit 27
+- add · "A Henge Away from Home bit 32" · map 1195 · bit 31
+- add · "A Henge Away from Home bit 31" · map 1195 · bit 30
+- add · "A Henge Away from Home bit 30" · map 1195 · bit 29
+- add · "A Henge Away from Home bit 29" · map 1195 · bit 28
+
+### Aurora II: Empowering (id 3489)
+- add · "Aurora II: Empowering bit 3" · map 29 · bit 2
+- add · "Aurora II: Empowering bit 4" · map 26 · bit 3
+- add · "Aurora II: Empowering bit 5" · map 22 · bit 4
+- add · "Aurora II: Empowering bit 6" · map 25 · bit 5
+- add · "Aurora II: Empowering bit 7" · map 39 · bit 6
+- add · "Aurora II: Empowering bit 8" · map 53 · bit 7
+- add · "Aurora II: Empowering bit 9" · map 65 · bit 8
+- add · "Aurora II: Empowering bit 10" · map 1052 · bit 9
+- add · "Aurora II: Empowering bit 11" · map 1052 · bit 10
+- add · "Aurora II: Empowering bit 13" · map 1043 · bit 12
+- add · "Aurora II: Empowering bit 12" · map 1043 · bit 11
+- add · "Aurora II: Empowering bit 15" · map 1045 · bit 14
+- add · "Aurora II: Empowering bit 14" · map 1045 · bit 13
+- add · "Aurora II: Empowering bit 16" · map 1165 · bit 15
+- add · "Aurora II: Empowering bit 17" · map 1175 · bit 16
+- add · "Aurora II: Empowering bit 18" · map 1178 · bit 17
+- add · "Aurora II: Empowering bit 19" · map 1185 · bit 18
+- add · "Aurora II: Empowering bit 20" · map 1195 · bit 19
+- add · "Aurora II: Empowering bit 21" · map 1203 · bit 20
+
 ## v68 — 2026-07-09
 
 **12 marker(s) · 5 achievement(s)**

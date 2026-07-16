@@ -1,110 +1,230 @@
 {
-  "version": 68,
-  "published_at": "2026-07-09T11:43:04Z",
+  "version": 69,
+  "published_at": "2026-07-16T23:23:22Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "3319590355a0ef84c4c6914de54f4fbc712faa77d3419e01334dc552ca4150cf",
-  "size": 269869,
+  "sha256": "00740c79cf6b7d340f043b5a940cc6275eabf0468a4f93829940ac92fd1a22eb",
+  "size": 272336,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 3235,
-      "name": "Cultural Attach\u00e9",
+      "ach_id": 3436,
+      "name": "A Henge Away from Home",
       "markers": [
         {
           "op": "add",
-          "name": "Cultural Attach\u00e9 bit 2",
-          "map_id": 218,
-          "kind": "bit 1"
-        },
-        {
-          "op": "add",
-          "name": "Cultural Attach\u00e9 bit 1",
-          "map_id": 18,
-          "kind": "bit 0"
-        },
-        {
-          "op": "add",
-          "name": "Cultural Attach\u00e9 bit 3",
-          "map_id": 326,
-          "kind": "bit 2"
-        },
-        {
-          "op": "add",
-          "name": "Cultural Attach\u00e9 bit 4",
-          "map_id": 139,
-          "kind": "bit 3"
-        },
-        {
-          "op": "add",
-          "name": "Cultural Attach\u00e9 bit 5",
-          "map_id": 91,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "Cultural Attach\u00e9 bit 7",
-          "map_id": 988,
-          "kind": "bit 6"
-        }
-      ]
-    },
-    {
-      "ach_id": 3447,
-      "name": "Sprouting the Druid Stone",
-      "markers": [
-        {
-          "op": "add",
-          "name": "Sprouting the Druid Stone bit 18",
+          "name": "A Henge Away from Home bit 18",
           "map_id": 1195,
           "kind": "bit 17"
         },
         {
           "op": "add",
-          "name": "Sprouting the Druid Stone bit 20",
+          "name": "A Henge Away from Home bit 9",
+          "map_id": 1195,
+          "kind": "bit 8"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 19",
+          "map_id": 1195,
+          "kind": "bit 18"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 20",
           "map_id": 1195,
           "kind": "bit 19"
         },
         {
           "op": "add",
-          "name": "Sprouting the Druid Stone bit 19",
+          "name": "A Henge Away from Home bit 21",
           "map_id": 1195,
-          "kind": "bit 18"
+          "kind": "bit 20"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 22",
+          "map_id": 1195,
+          "kind": "bit 21"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 23",
+          "map_id": 1195,
+          "kind": "bit 22"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 24",
+          "map_id": 39,
+          "kind": "bit 23"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 25",
+          "map_id": 988,
+          "kind": "bit 24"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 26",
+          "map_id": 62,
+          "kind": "bit 25"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 27",
+          "map_id": 1195,
+          "kind": "bit 26"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 28",
+          "map_id": 1195,
+          "kind": "bit 27"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 32",
+          "map_id": 1195,
+          "kind": "bit 31"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 31",
+          "map_id": 1195,
+          "kind": "bit 30"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 30",
+          "map_id": 1195,
+          "kind": "bit 29"
+        },
+        {
+          "op": "add",
+          "name": "A Henge Away from Home bit 29",
+          "map_id": 1195,
+          "kind": "bit 28"
         }
       ]
     },
     {
-      "ach_id": 6969,
-      "name": "Zojja's Journal: Primal Maguuma",
+      "ach_id": 3489,
+      "name": "Aurora II: Empowering",
       "markers": [
         {
           "op": "add",
-          "name": "Zojja's Journal: Primal Maguuma bit 1",
-          "map_id": 1510,
-          "kind": "bit 0"
-        }
-      ]
-    },
-    {
-      "ach_id": 7083,
-      "name": "Zojja's Journal",
-      "markers": [
+          "name": "Aurora II: Empowering bit 3",
+          "map_id": 29,
+          "kind": "bit 2"
+        },
         {
           "op": "add",
-          "name": "Zojja's Journal bit 8",
-          "map_id": 1509,
+          "name": "Aurora II: Empowering bit 4",
+          "map_id": 26,
+          "kind": "bit 3"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 5",
+          "map_id": 22,
+          "kind": "bit 4"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 6",
+          "map_id": 25,
+          "kind": "bit 5"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 7",
+          "map_id": 39,
+          "kind": "bit 6"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 8",
+          "map_id": 53,
           "kind": "bit 7"
-        }
-      ]
-    },
-    {
-      "ach_id": 7207,
-      "name": "Zojja's Journal: Jade Mech Habitation Zone 03",
-      "markers": [
+        },
         {
           "op": "add",
-          "name": "Zojja's Journal: Jade Mech Habitation Zone 03 bit 1",
-          "map_id": 1510,
-          "kind": "bit 0"
+          "name": "Aurora II: Empowering bit 9",
+          "map_id": 65,
+          "kind": "bit 8"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 10",
+          "map_id": 1052,
+          "kind": "bit 9"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 11",
+          "map_id": 1052,
+          "kind": "bit 10"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 13",
+          "map_id": 1043,
+          "kind": "bit 12"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 12",
+          "map_id": 1043,
+          "kind": "bit 11"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 15",
+          "map_id": 1045,
+          "kind": "bit 14"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 14",
+          "map_id": 1045,
+          "kind": "bit 13"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 16",
+          "map_id": 1165,
+          "kind": "bit 15"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 17",
+          "map_id": 1175,
+          "kind": "bit 16"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 18",
+          "map_id": 1178,
+          "kind": "bit 17"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 19",
+          "map_id": 1185,
+          "kind": "bit 18"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 20",
+          "map_id": 1195,
+          "kind": "bit 19"
+        },
+        {
+          "op": "add",
+          "name": "Aurora II: Empowering bit 21",
+          "map_id": 1203,
+          "kind": "bit 20"
         }
       ]
     }
