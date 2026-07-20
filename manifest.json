@@ -1,230 +1,32 @@
 {
-  "version": 69,
-  "published_at": "2026-07-16T23:23:22Z",
+  "version": 70,
+  "published_at": "2026-07-20T20:47:31Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "00740c79cf6b7d340f043b5a940cc6275eabf0468a4f93829940ac92fd1a22eb",
-  "size": 272336,
+  "sha256": "b552475ecf557dc84afeb2bc659300226f3807a530e68300c06cb2aaf013a399",
+  "size": 272516,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 3436,
-      "name": "A Henge Away from Home",
+      "ach_id": 3796,
+      "name": "The Collection of Tribute",
       "markers": [
         {
           "op": "add",
-          "name": "A Henge Away from Home bit 18",
-          "map_id": 1195,
-          "kind": "bit 17"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 9",
-          "map_id": 1195,
-          "kind": "bit 8"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 19",
-          "map_id": 1195,
-          "kind": "bit 18"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 20",
-          "map_id": 1195,
-          "kind": "bit 19"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 21",
-          "map_id": 1195,
-          "kind": "bit 20"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 22",
-          "map_id": 1195,
-          "kind": "bit 21"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 23",
-          "map_id": 1195,
-          "kind": "bit 22"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 24",
-          "map_id": 39,
-          "kind": "bit 23"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 25",
-          "map_id": 988,
-          "kind": "bit 24"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 26",
-          "map_id": 62,
-          "kind": "bit 25"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 27",
-          "map_id": 1195,
-          "kind": "bit 26"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 28",
-          "map_id": 1195,
-          "kind": "bit 27"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 32",
-          "map_id": 1195,
-          "kind": "bit 31"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 31",
-          "map_id": 1195,
-          "kind": "bit 30"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 30",
-          "map_id": 1195,
-          "kind": "bit 29"
-        },
-        {
-          "op": "add",
-          "name": "A Henge Away from Home bit 29",
-          "map_id": 1195,
-          "kind": "bit 28"
-        }
-      ]
-    },
-    {
-      "ach_id": 3489,
-      "name": "Aurora II: Empowering",
-      "markers": [
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 3",
-          "map_id": 29,
-          "kind": "bit 2"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 4",
-          "map_id": 26,
+          "name": "The Collection of Tribute bit 4",
+          "map_id": 1226,
           "kind": "bit 3"
         },
         {
           "op": "add",
-          "name": "Aurora II: Empowering bit 5",
-          "map_id": 22,
+          "name": "The Collection of Tribute bit 5",
+          "map_id": 1248,
           "kind": "bit 4"
         },
         {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 6",
-          "map_id": 25,
-          "kind": "bit 5"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 7",
-          "map_id": 39,
-          "kind": "bit 6"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 8",
-          "map_id": 53,
-          "kind": "bit 7"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 9",
-          "map_id": 65,
-          "kind": "bit 8"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 10",
-          "map_id": 1052,
-          "kind": "bit 9"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 11",
-          "map_id": 1052,
-          "kind": "bit 10"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 13",
-          "map_id": 1043,
-          "kind": "bit 12"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 12",
-          "map_id": 1043,
-          "kind": "bit 11"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 15",
-          "map_id": 1045,
-          "kind": "bit 14"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 14",
-          "map_id": 1045,
-          "kind": "bit 13"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 16",
-          "map_id": 1165,
-          "kind": "bit 15"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 17",
-          "map_id": 1175,
-          "kind": "bit 16"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 18",
-          "map_id": 1178,
-          "kind": "bit 17"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 19",
-          "map_id": 1185,
-          "kind": "bit 18"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 20",
-          "map_id": 1195,
-          "kind": "bit 19"
-        },
-        {
-          "op": "add",
-          "name": "Aurora II: Empowering bit 21",
-          "map_id": 1203,
-          "kind": "bit 20"
+          "op": "edit",
+          "name": "The Collection of Tribute bit 4",
+          "map_id": 1226,
+          "kind": "bit 3"
         }
       ]
     }

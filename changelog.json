@@ -1,5 +1,35 @@
 [
   {
+    "version": 70,
+    "date": "2026-07-20",
+    "achievements": [
+      {
+        "ach_id": 3796,
+        "name": "The Collection of Tribute",
+        "markers": [
+          {
+            "op": "add",
+            "name": "The Collection of Tribute bit 4",
+            "map_id": 1226,
+            "kind": "bit 3"
+          },
+          {
+            "op": "add",
+            "name": "The Collection of Tribute bit 5",
+            "map_id": 1248,
+            "kind": "bit 4"
+          },
+          {
+            "op": "edit",
+            "name": "The Collection of Tribute bit 4",
+            "map_id": 1226,
+            "kind": "bit 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 69,
     "date": "2026-07-16",
     "achievements": [

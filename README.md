@@ -8,6 +8,15 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v70 — 2026-07-20
+
+**3 marker(s) · 1 achievement(s)**
+
+### The Collection of Tribute (id 3796)
+- add · "The Collection of Tribute bit 4" · map 1226 · bit 3
+- add · "The Collection of Tribute bit 5" · map 1248 · bit 4
+- edit · "The Collection of Tribute bit 4" · map 1226 · bit 3
+
 ## v69 — 2026-07-16
 
 **35 marker(s) · 2 achievement(s)**
