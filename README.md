@@ -8,6 +8,40 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v72 — 2026-10-11
+
+**26 marker(s) · 2 achievement(s)**
+
+### Coalescence II: The Gift (id 4412)
+- add · "Coalescence II: The Gift bit 2" · map 51 · bit 1
+- add · "Coalescence II: The Gift bit 3" · map 1248 · bit 2
+- add · "Coalescence II: The Gift bit 4" · map 25 · bit 3
+- add · "Coalescence II: The Gift bit 5" · map 21 · bit 4
+- add · "Coalescence II: The Gift bit 8" · map 15 · bit 7
+- add · "Coalescence II: The Gift bit 9" · map 1211 · bit 8
+- add · "Coalescence II: The Gift bit 9" · map 1256 · bit 8
+- add · "Coalescence II: The Gift bit 10" · map 27 · bit 9
+- add · "Coalescence II: The Gift bit 10" · map 964 · bit 9
+- add · "Coalescence II: The Gift bit 11" · map 50 · bit 10
+- add · "Coalescence II: The Gift bit 12" · map 35 · bit 11
+- add · "Coalescence II: The Gift bit 13" · map 50 · bit 12
+- add · "Coalescence II: The Gift bit 13" · map 872 · bit 12
+- add · "Coalescence II: The Gift bit 14" · map 29 · bit 13
+- add · "Coalescence II: The Gift bit 15" · map 50 · bit 14
+- add · "Coalescence II: The Gift bit 16" · map 18 · bit 15
+- add · "Coalescence II: The Gift bit 16" · map 330 · bit 15
+- add · "Coalescence II: The Gift bit 17" · map 1211 · bit 16
+
+### The Hunger (id 5020)
+- add · "#1 Achievement helper" · map 1343 · objective
+- add · "The Hunger bit 1" · map 1356 · bit 0
+- add · "The Hunger bit 2" · map 1356 · bit 1
+- add · "The Hunger bit 3" · map 1356 · bit 2
+- add · "The Hunger bit 4" · map 1356 · bit 3
+- add · "The Hunger bit 5" · map 1356 · bit 4
+- add · "The Hunger bit 6" · map 1356 · bit 5
+- add · "Achievement helper" · map 1356 · objective
+
 ## v71 — 2026-10-11
 
 **26 marker(s) · 2 achievement(s)**
