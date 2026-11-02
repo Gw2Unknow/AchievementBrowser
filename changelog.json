@@ -1,5 +1,161 @@
 [
   {
+    "version": 74,
+    "date": "2026-11-02",
+    "achievements": [
+      {
+        "ach_id": 1633,
+        "name": "Dive Master: Prospect Valley",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Jump Platform",
+            "map_id": 988,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Safe Postion after Dive",
+            "map_id": 988,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 1640,
+        "name": "Zephyr's Ascent",
+        "markers": [
+          {
+            "op": "edit",
+            "name": "Gates of Magumma/tracking the Master of Peace",
+            "map_id": 992,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 1642,
+        "name": "Zephyr's Leap",
+        "markers": [
+          {
+            "op": "edit",
+            "name": "#1 Dive Platform in Story Instance/Tracking the Master of Peace; Jump off!!!",
+            "map_id": 992,
+            "kind": "guide"
+          },
+          {
+            "op": "edit",
+            "name": "#2 Mid fall Position",
+            "map_id": 992,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 1643,
+        "name": "No Rock Unturned",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Equipment 1; Story Instance; Tracking the MAster of Peace",
+            "map_id": 992,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Equipment 2; Story Instance; Tracking the Master of Peace",
+            "map_id": 992,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Equipment 3; Story Instance; Tracking the Master of Peace",
+            "map_id": 992,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Equipment 4; Story Instance; Tracking the Master of Peace",
+            "map_id": 992,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 1647,
+        "name": "Opportune Moment",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Tp here only after all Mobs are dead.",
+            "map_id": 990,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Attack Aerin here",
+            "map_id": 990,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 1648,
+        "name": "Dashed Advantage",
+        "markers": [
+          {
+            "op": "add",
+            "name": "After Aerin is at 50% HP. TP here",
+            "map_id": 990,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Use Skill 2 here",
+            "map_id": 990,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Kill all Mobs but First Golem with the Basket.",
+            "map_id": 990,
+            "kind": "guide"
+          },
+          {
+            "op": "add",
+            "name": "Exit Hidden Wall",
+            "map_id": 990,
+            "kind": "guide"
+          }
+        ]
+      },
+      {
+        "ach_id": 3943,
+        "name": "Mad Mementos",
+        "markers": [
+          {
+            "op": "add",
+            "name": "#2 Scan Site - Purple",
+            "map_id": 53,
+            "kind": "bit 5"
+          }
+        ]
+      },
+      {
+        "ach_id": 7809,
+        "name": "Illuminating Inner Nayos",
+        "markers": [
+          {
+            "op": "add",
+            "name": "Achievement helper",
+            "map_id": 1526,
+            "kind": "objective"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": 73,
     "date": "2026-11-02",
     "achievements": [
