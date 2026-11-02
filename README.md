@@ -8,6 +8,59 @@ Each release below lists the achievements and markers added/changed.
 
 <!-- releases below; newest first -->
 
+## v73 — 2026-11-02
+
+**31 marker(s) · 9 achievement(s)**
+
+### Dive Master: Prospect Valley (id 1633)
+- add · "Jump Platform" · map 988 · guide
+- add · "Safe Postion after Dive" · map 988 · guide
+
+### Zephyr's Ascent (id 1640)
+- edit · "Gates of Magumma/tracking the Master of Peace" · map 992 · guide
+
+### Zephyr's Leap (id 1642)
+- edit · "#1 Dive Platform in Story Instance/Tracking the Master of Peace; Jump off!!!" · map 992 · guide
+- edit · "#2 Mid fall Position" · map 992 · guide
+
+### No Rock Unturned (id 1643)
+- add · "Equipment 1; Story Instance; Tracking the MAster of Peace" · map 992 · guide
+- add · "Equipment 2; Story Instance; Tracking the Master of Peace" · map 992 · guide
+- add · "Equipment 3; Story Instance; Tracking the Master of Peace" · map 992 · guide
+- add · "Equipment 4; Story Instance; Tracking the Master of Peace" · map 992 · guide
+
+### Opportune Moment (id 1647)
+- add · "Tp here only after all Mobs are dead." · map 990 · guide
+- add · "Attack Aerin here" · map 990 · guide
+
+### Dashed Advantage (id 1648)
+- add · "After Aerin is at 50% HP. TP here" · map 990 · guide
+- add · "Use Skill 2 here" · map 990 · guide
+- add · "Kill all Mobs but First Golem with the Basket." · map 990 · guide
+- add · "Exit Hidden Wall" · map 990 · guide
+
+### Mad Mementos (id 3943)
+- add · "#1 Instance Entry" · map 24 · bit 0
+- add · "#2 Scan Site - Red" · map 24 · bit 0
+- add · "#1 Instance Entry" · map 17 · bit 1
+- add · "#2 Scan Site - Purple" · map 17 · bit 1
+- add · "#1 Instance Entry" · map 17 · bit 3
+- add · "#1 Instance Entry" · map 17 · bit 4
+- add · "#2 Scan Site - Red" · map 17 · bit 3
+- add · "#2 Scan Site - Green" · map 17 · bit 4
+- add · "#3 Scan Site - Blue" · map 17 · bit 4
+- add · "#1 Instance Entry" · map 73 · bit 2
+- add · "#2 Scan Site - Blue" · map 73 · bit 2
+- add · "#1 Instance Entry" · map 53 · bit 5
+- add · "#2 Scan Site - Purple" · map 53 · bit 5
+
+### Antique Canthan Armor Collector (id 6488)
+- add · "#1 Instance Entry" · map 1442 · bit 16
+- add · "#2 Myung-Hee" · map 1442 · bit 16
+
+### Illuminating Inner Nayos (id 7809)
+- add · "Achievement helper" · map 1526 · objective
+
 ## v72 — 2026-10-11
 
 **26 marker(s) · 2 achievement(s)**

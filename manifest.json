@@ -1,175 +1,247 @@
 {
-  "version": 72,
-  "published_at": "2026-10-11T21:50:49Z",
+  "version": 73,
+  "published_at": "2026-11-02T08:21:01Z",
   "min_plugin_version": "0.1.0",
-  "sha256": "97a805a471f54dcaf335bb10b8ace345d11dadedf7b773ff167b27e7d214e912",
-  "size": 274616,
+  "sha256": "9ab95c9bd841d61514dd6feaca6ad7442b7154768052b3d538e8d41bbcec3847",
+  "size": 277598,
   "url": "https://raw.githubusercontent.com/Gw2Unknow/AchievementBrowser/main/AB_Community.taco",
   "changes": [
     {
-      "ach_id": 4412,
-      "name": "Coalescence II: The Gift",
+      "ach_id": 1633,
+      "name": "Dive Master: Prospect Valley",
       "markers": [
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 2",
-          "map_id": 51,
+          "name": "Jump Platform",
+          "map_id": 988,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "Safe Postion after Dive",
+          "map_id": 988,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 1640,
+      "name": "Zephyr's Ascent",
+      "markers": [
+        {
+          "op": "edit",
+          "name": "Gates of Magumma/tracking the Master of Peace",
+          "map_id": 992,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 1642,
+      "name": "Zephyr's Leap",
+      "markers": [
+        {
+          "op": "edit",
+          "name": "#1 Dive Platform in Story Instance/Tracking the Master of Peace; Jump off!!!",
+          "map_id": 992,
+          "kind": "guide"
+        },
+        {
+          "op": "edit",
+          "name": "#2 Mid fall Position",
+          "map_id": 992,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 1643,
+      "name": "No Rock Unturned",
+      "markers": [
+        {
+          "op": "add",
+          "name": "Equipment 1; Story Instance; Tracking the MAster of Peace",
+          "map_id": 992,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "Equipment 2; Story Instance; Tracking the Master of Peace",
+          "map_id": 992,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "Equipment 3; Story Instance; Tracking the Master of Peace",
+          "map_id": 992,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "Equipment 4; Story Instance; Tracking the Master of Peace",
+          "map_id": 992,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 1647,
+      "name": "Opportune Moment",
+      "markers": [
+        {
+          "op": "add",
+          "name": "Tp here only after all Mobs are dead.",
+          "map_id": 990,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "Attack Aerin here",
+          "map_id": 990,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 1648,
+      "name": "Dashed Advantage",
+      "markers": [
+        {
+          "op": "add",
+          "name": "After Aerin is at 50% HP. TP here",
+          "map_id": 990,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "Use Skill 2 here",
+          "map_id": 990,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "Kill all Mobs but First Golem with the Basket.",
+          "map_id": 990,
+          "kind": "guide"
+        },
+        {
+          "op": "add",
+          "name": "Exit Hidden Wall",
+          "map_id": 990,
+          "kind": "guide"
+        }
+      ]
+    },
+    {
+      "ach_id": 3943,
+      "name": "Mad Mementos",
+      "markers": [
+        {
+          "op": "add",
+          "name": "#1 Instance Entry",
+          "map_id": 24,
+          "kind": "bit 0"
+        },
+        {
+          "op": "add",
+          "name": "#2 Scan Site - Red",
+          "map_id": 24,
+          "kind": "bit 0"
+        },
+        {
+          "op": "add",
+          "name": "#1 Instance Entry",
+          "map_id": 17,
           "kind": "bit 1"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 3",
-          "map_id": 1248,
-          "kind": "bit 2"
+          "name": "#2 Scan Site - Purple",
+          "map_id": 17,
+          "kind": "bit 1"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 4",
-          "map_id": 25,
+          "name": "#1 Instance Entry",
+          "map_id": 17,
           "kind": "bit 3"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 5",
-          "map_id": 21,
+          "name": "#1 Instance Entry",
+          "map_id": 17,
           "kind": "bit 4"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 8",
-          "map_id": 15,
-          "kind": "bit 7"
+          "name": "#2 Scan Site - Red",
+          "map_id": 17,
+          "kind": "bit 3"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 9",
-          "map_id": 1211,
-          "kind": "bit 8"
+          "name": "#2 Scan Site - Green",
+          "map_id": 17,
+          "kind": "bit 4"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 9",
-          "map_id": 1256,
-          "kind": "bit 8"
+          "name": "#3 Scan Site - Blue",
+          "map_id": 17,
+          "kind": "bit 4"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 10",
-          "map_id": 27,
-          "kind": "bit 9"
+          "name": "#1 Instance Entry",
+          "map_id": 73,
+          "kind": "bit 2"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 10",
-          "map_id": 964,
-          "kind": "bit 9"
+          "name": "#2 Scan Site - Blue",
+          "map_id": 73,
+          "kind": "bit 2"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 11",
-          "map_id": 50,
-          "kind": "bit 10"
+          "name": "#1 Instance Entry",
+          "map_id": 53,
+          "kind": "bit 5"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 12",
-          "map_id": 35,
-          "kind": "bit 11"
+          "name": "#2 Scan Site - Purple",
+          "map_id": 53,
+          "kind": "bit 5"
+        }
+      ]
+    },
+    {
+      "ach_id": 6488,
+      "name": "Antique Canthan Armor Collector",
+      "markers": [
+        {
+          "op": "add",
+          "name": "#1 Instance Entry",
+          "map_id": 1442,
+          "kind": "bit 16"
         },
         {
           "op": "add",
-          "name": "Coalescence II: The Gift bit 13",
-          "map_id": 50,
-          "kind": "bit 12"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence II: The Gift bit 13",
-          "map_id": 872,
-          "kind": "bit 12"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence II: The Gift bit 14",
-          "map_id": 29,
-          "kind": "bit 13"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence II: The Gift bit 15",
-          "map_id": 50,
-          "kind": "bit 14"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence II: The Gift bit 16",
-          "map_id": 18,
-          "kind": "bit 15"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence II: The Gift bit 16",
-          "map_id": 330,
-          "kind": "bit 15"
-        },
-        {
-          "op": "add",
-          "name": "Coalescence II: The Gift bit 17",
-          "map_id": 1211,
+          "name": "#2 Myung-Hee",
+          "map_id": 1442,
           "kind": "bit 16"
         }
       ]
     },
     {
-      "ach_id": 5020,
-      "name": "The Hunger",
+      "ach_id": 7809,
+      "name": "Illuminating Inner Nayos",
       "markers": [
         {
           "op": "add",
-          "name": "#1 Achievement helper",
-          "map_id": 1343,
-          "kind": "objective"
-        },
-        {
-          "op": "add",
-          "name": "The Hunger bit 1",
-          "map_id": 1356,
-          "kind": "bit 0"
-        },
-        {
-          "op": "add",
-          "name": "The Hunger bit 2",
-          "map_id": 1356,
-          "kind": "bit 1"
-        },
-        {
-          "op": "add",
-          "name": "The Hunger bit 3",
-          "map_id": 1356,
-          "kind": "bit 2"
-        },
-        {
-          "op": "add",
-          "name": "The Hunger bit 4",
-          "map_id": 1356,
-          "kind": "bit 3"
-        },
-        {
-          "op": "add",
-          "name": "The Hunger bit 5",
-          "map_id": 1356,
-          "kind": "bit 4"
-        },
-        {
-          "op": "add",
-          "name": "The Hunger bit 6",
-          "map_id": 1356,
-          "kind": "bit 5"
-        },
-        {
-          "op": "add",
           "name": "Achievement helper",
-          "map_id": 1356,
+          "map_id": 1526,
           "kind": "objective"
         }
       ]
